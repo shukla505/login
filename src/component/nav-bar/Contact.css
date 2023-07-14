@@ -1,0 +1,34 @@
+.contact-form{
+    background-image: url('https://www.google.com/maps/d/thumbnail?mid=1PB5FRj1tbmtgi1svRmDkfQeLGTA');
+    height: 100%;
+    width: 100%;
+    
+}
+
+
+.button-1{
+    border-color: red;
+    color: red;
+    border-radius: 15px;
+}
+
+.input-1 {
+    margin-top: 20px;
+    width: 500px;
+    height: 30px;
+    border-color: red;
+    border-radius: 10px;
+
+}
+
+
+.textarea-1 {
+    margin: auto;
+    border-color: red;
+    width: 500px;
+    height: 150px;
+    border-radius: 10px;
+
+}
+
+

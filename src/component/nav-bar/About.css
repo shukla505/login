@@ -1,0 +1,48 @@
+.about-redbus{
+    background-color: white;  
+}
+
+.redbus{
+    color: #ff00009d;
+    display: flex;
+    margin-left: 170px;
+    margin-right: 170px;
+    
+    
+}
+.about{
+    color: black;
+    text-align:justify;
+    margin-left: 170px;
+    margin-right: 170px;
+    
+}
+.team{
+    display:flex;
+    margin-left: 170px;
+    margin-right: 170px;
+    
+}
+.team-2{
+    display: flex;
+    margin-top: 40px;
+    margin-left: 170px;
+    margin-right: 170px;
+    
+}
+h4{
+    color: red;
+ 
+}
+p{
+    color: black;
+    text-align:justify;
+    
+    
+}
+
+.im-1{
+    height: 130px;
+    display: flex;
+   
+}

@@ -1,0 +1,173 @@
+.mainpage{
+    margin: .5px;
+    width:auto;
+
+
+}
+.user-Form-Section{
+    background-image: url("https://st.redbus.in/seo/ind/website-banner_1280x450_1631689052.png");
+    height: 450px;
+    opacity: 0.70;
+    
+    
+}
+.dision{
+    border-radius: 1px;
+    height: 180px;
+    width: 1100px;
+    background-color:darkgray;
+    margin-top: 800px;
+    position: absolute;
+    text-align: center;
+    color: black;
+    
+}
+
+.dision:hover { 
+    transform: scale(1.1); 
+    
+    }
+.dision-2{
+    text-align:right;
+    color: red;
+    position: absolute;
+    left: 350px;
+    
+}
+.dision-1{
+    display:flex;
+    height: 180px;
+    width: 300px;
+    position: absolute;
+}
+
+
+.tokan{
+    display: flex;
+    margin-top: 450px;
+    justify-content: center;
+    height: 200px;
+    width: 1150px;
+    position: absolute;
+    margin-left: 100px;
+    justify-content: space-between;
+}
+.tokan-1{
+    
+    justify-content: center;
+    text-align: center;
+    row-gap: 2px;
+    border-radius: 2px;
+    background-color: white;
+    border: groove;
+
+
+}
+.tokan-1:hover{
+    transform: scale(1.1); 
+}
+.tokan-2{
+    
+    justify-content: center;
+    text-align: center;
+    row-gap: 2px;
+    background-color:white;
+    border: groove;
+
+
+}
+.tokan-2:hover{
+    transform: scale(1.1); 
+}
+.tokan-3{
+   
+    justify-content: center;
+    text-align: center;
+    row-gap: 2px;
+    background-color: white;
+   border: groove;
+
+}
+.tokan-3:hover{
+    transform: scale(1.1); 
+}
+
+.aboutredbus{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyinkZ9k37vJ-Za7SNpBZcq7EOOlg0foOOyOhn8PaXwjYiZkmmANJzzIFUAGtLQXU2hw&usqp=CAU");
+    margin-top: 850px;
+    height: 520px;
+    width: auto;
+    display: flex;
+    justify-content: space-between;
+    background-repeat: no-repeat;
+    
+}
+
+.over-service{
+    margin-top:450px ;
+    
+}
+.service{
+    justify-content: space-between;
+    display: flex;
+    margin-left: 50px;
+    margin-right: 50px;
+    position: absolute;
+    text-align: center;
+
+}
+.search{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+   
+}
+.input-div{
+    margin: 10px;
+    margin-top: 135px;
+    border-radius: 10px;
+}
+
+.input-div input{
+    height: 70px;
+    width: 250px;
+    text-align: center;
+    cursor: text;
+    font-size:larger;
+    border-radius: 10px;
+    border-width: 4px;
+}
+.button-div{
+ margin-top: 140px;
+ margin-bottom: 10px;
+ 
+}
+.button-div .search-btn{
+    border-style: none;
+    color: white;
+    width: 200px;
+    height: 70px;
+    font-size: 15px;
+    background-color: red;
+    border-radius: 4px;
+    cursor: pointer;
+    border-radius: 20px;
+}
+.button-div .switch{
+    border-style: none;
+    width: 50px;
+    height: 50px;
+    background-color: red;
+    font-size: 20px;
+    font-weight: 800;
+    border-radius: 30px;
+    color: white;
+    cursor: pointer;
+}
+.search-btn:hover{
+    font-size: 18px;
+}
+.switch:hover{
+    font-size:22px;
+}
