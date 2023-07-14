@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/login/static/css/main.e5588aea.css",
+    "main.js": "/login/static/js/main.216576ca.js",
+    "static/js/787.a0227d82.chunk.js": "/login/static/js/787.a0227d82.chunk.js",
+    "static/media/redBus.png": "/login/static/media/redBus.626c3d776617a41002c6.png",
+    "index.html": "/login/index.html",
+    "main.e5588aea.css.map": "/login/static/css/main.e5588aea.css.map",
+    "main.216576ca.js.map": "/login/static/js/main.216576ca.js.map",
+    "787.a0227d82.chunk.js.map": "/login/static/js/787.a0227d82.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5588aea.css",
+    "static/js/main.216576ca.js"
+  ]
+}
